@@ -84,3 +84,9 @@ let area_two = calculateArea(10, 9)
 
 console.log('The calculated area: ', area_one)
 console.log('The calculated area: ', area_two)
+
+
+
+
+
+
